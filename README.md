@@ -1,8 +1,10 @@
 # Welcome to the BraveConvert tool :)
 
-> What is this and how do I use it? 
+> What is this?
 
 I'm glad you asked. This program receives your csv file which is formatted to store NFT entries and their correct fields- *I hope*- and generates a sha-256 hashed JSON file for every single one of them.
+
+> How do I use it?
 
 1. Fork the repository over or simply clone it into your PC.
 2. Place the 'braveprocessor.py' file into the folder where your csv file lies.
