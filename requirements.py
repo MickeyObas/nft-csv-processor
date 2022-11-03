@@ -1,0 +1,14 @@
+charset-normalizer==2.1.0
+distlib==0.3.5
+filelock==3.7.1
+numpy==1.23.4
+pandas==1.5.1
+platformdirs==2.5.2
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pyparsing==3.0.9
+pytz==2022.1
+rsa==4.9
+six==1.16.0
+sqlparse==0.4.2
+virtualenv==20.16.3
